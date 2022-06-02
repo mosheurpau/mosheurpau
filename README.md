@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/DKqLWN7/git-Banner1.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mosheur Rahman</h1>
 <h3 align="center">A passionate MERN developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/hHjPLym/Mosheur-Rahman.png">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/2Ykn8N2/Mosheur-Rahman-min.png">
 
 
 
