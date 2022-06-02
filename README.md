@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mosheur199829@gmail.com**
 
-- 📄 Know about my experiences [https://drive.gooRgle.com/file/d/13XL_cnPP7C9oa_Xr8o-QVVxT8T8K5XVQ/view?usp=sharing](https://drive.gooRgle.com/file/d/13XL_cnPP7C9oa_Xr8o-QVVxT8T8K5XVQ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.gooRgle.com/file/d/13XL_cnPP7C9oa_Xr8o-QVVxT8T8K5XVQ/view?usp=sharing)
 
 - ⚡ Fun fact **I Love Bike Riding**
 
