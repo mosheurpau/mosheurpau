@@ -9,21 +9,21 @@
 
 - 🌱 I’m currently learning **MongoDB, Express, Node**
 
-- 👨‍💻 All of my projects are available at [https://mosheur-rahman.web.app](https://mosheur-rahman.web.app)
+- 👨‍💻 All of my projects are available at [portfolio](https://mosheur-rahman.web.app)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **mosheur199829@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.gooRgle.com/file/d/13XL_cnPP7C9oa_Xr8o-QVVxT8T8K5XVQ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13XL_cnPP7C9oa_Xr8o-QVVxT8T8K5XVQ/view)
 
 - ⚡ Fun fact **I Love Bike Riding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mosheurrahman29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mosheurrahman29/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mosheur.pau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mosheur.pau" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/c/basicprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/basicprogrammer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mosheurrahman29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mosheurrahman29/" height="30" width="40" /></a>
+<a href="https://fb.com/mosheur.pau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mosheur.pau" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/basicprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/basicprogrammer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
