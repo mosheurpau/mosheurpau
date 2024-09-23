@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/DKqLWN7/git-Banner1.png)](https://rishavchanda.io)
+[![MasterHead](https://i.ibb.co/585Pp7K/Mosheur-cover-img.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mosheur Rahman</h1>
 <h3 align="center">A passionate MERN developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/mTj7sq7/Whats-App-Image-2024-08-23-at-18-10-08-8ce22043.jpg">
