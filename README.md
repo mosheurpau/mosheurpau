@@ -8,9 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosheurpau&label=Profile%20views&color=0e75b6&style=flat" alt="mosheurpau" /> </p>
 
 - 👨‍💻 All of my projects are available at [portfolio](https://mosheur-rahman.web.app)
-
-- 💬 Ask me about **MERN**
-
+  
 - 📫 How to reach me **mosheur199829@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13XL_cnPP7C9oa_Xr8o-QVVxT8T8K5XVQ/view)
